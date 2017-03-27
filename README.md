@@ -9,7 +9,7 @@
 
 Проект развернут на PaaS-платформе heroku: http://whatdidyouate.herokuapp.com
 
-В проекте есть 2 профиля для работы с БД PostgresSQL и HSQLDB,
+В проекте есть 2 профиля для работы с БД: PostgresSQL и HSQLDB,
 а так же 3 профиля под реализации Spring JDBC, JPA(Hibernate) и Spring-Data-JPA.
 
 Реализованы REST и AJAX контроллеры вместе с тестами (jUnit).
